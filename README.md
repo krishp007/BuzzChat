@@ -1,6 +1,6 @@
 # BuzzChat
 
-Welcome to BuzzChat, a real-time chat application built using the MERN stack: MongoDB, Express, React, and Node.js. With BuzzChat, you can create an account, log in, and chat with other users seamlessly. Users can also select a profile avatar during registration to personalize their experience.
+Welcome to BuzzChat, a real-time chat application built using the MERN stack: MongoDB, Express, React, and Node.js. With BuzzChat, you can create an account, log in, and chat with other users seamlessly. Users can also select a profile avatar upon registration to personalize their experience.
 
 ## Features
 
